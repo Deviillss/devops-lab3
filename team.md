@@ -1,5 +1,5 @@
 #Informacja o członku zespołu
-Imię:
-Nazwisko: 
-Ulubiona technologia:
+Imię: Aleksander
+Nazwisko: Ostrowski
+Ulubiona technologia: git
 
