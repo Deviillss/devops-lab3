@@ -1,5 +1,5 @@
 #Informacja o członku zespołu
-Imię: Aleksander
-Nazwisko: Ostrowski
+Imię: Piotr
+Nazwisko: Kowalski
 Ulubiona technologia: git
 
